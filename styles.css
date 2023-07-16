@@ -1,0 +1,29 @@
+h1, h3 {
+    font-family: Arial;
+    display: block;
+    text-align: center;
+  }
+  p {
+    font-family: Arial;
+    display: block;
+    text-align: center;
+    }
+  #img-caption {
+    font-family: Arial;
+    display: block;
+    text-align: center;
+    }
+  #content {
+    font-family: Arial;
+    display: block;
+    text-align: 
+    -webkit-match-parent;
+  }
+  #image {
+    max-width: 100%;         
+    display: block;
+  }
+  #tribute-info {
+    display: block;
+    font-family: Arial;
+  }
